@@ -10,6 +10,8 @@ pour réduire les complications neurologiques de l’hypertension artérielle, e
 
 ## 1. Essayer tout de suite
 
+Application en ligne (Vercel, projet `application-medicale`) : le lien de production est affiché dans le tableau de bord Vercel du projet.
+
 | Espace | Courriel | Mot de passe |
 |---|---|---|
 | Patient (Marie Ngo Bassa) | `patient@demo.cm` | `demo1234` |
